@@ -1,0 +1,593 @@
+[
+  {
+    "id": "slope",
+    "name": "Slope",
+    "url": "https://kdata1.com/2020/05/slope/",
+    "category": "Action",
+    "mirrors": [
+      "https://slope.io/",
+      "https://www.google.com/search?q=slope+game+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/slope/20210126175213/slope-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A fast-paced 3D running game where you navigate a ball through a futuristic obstacle course."
+  },
+  {
+    "id": "tunnel-rush",
+    "name": "Tunnel Rush",
+    "url": "https://kdata1.com/2020/05/tunnel-rush/",
+    "category": "Action",
+    "mirrors": [
+      "https://tunnelrush.io/",
+      "https://www.google.com/search?q=tunnel+rush+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/tunnelrush/20210126175213/tunnelrush-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Experience high-speed thrills as you dodge obstacles in a neon-colored tunnel."
+  },
+  {
+    "id": "1v1-lol",
+    "name": "1v1.LOL",
+    "url": "https://1v1.lol/",
+    "category": "Action",
+    "mirrors": [
+      "https://1v1.school/",
+      "https://justbuild.lol/"
+    ],
+    "thumbnail": "https://images.crazygames.com/1v1-lol/20221012111000/1v1-lol-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A competitive third-person shooter and building game where you face off against other players."
+  },
+  {
+    "id": "retro-bowl",
+    "name": "Retro Bowl",
+    "url": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
+    "category": "Sports",
+    "mirrors": [
+      "https://retrobowl.me/",
+      "https://www.google.com/search?q=retro+bowl+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/retro-bowl/20210126175213/retro-bowl-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Manage your own American football team and lead them to glory in this retro-style sports game."
+  },
+  {
+    "id": "bitlife",
+    "name": "BitLife",
+    "url": "https://bitlifeonline.io/",
+    "category": "Casual",
+    "mirrors": [
+      "https://www.bitlife.com/",
+      "https://www.google.com/search?q=bitlife+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/bitlife-life-simulator/20210126175213/bitlife-life-simulator-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A life simulator where you make choices that shape your character's destiny from birth to death."
+  },
+  {
+    "id": "geometry-dash",
+    "name": "Geometry Dash",
+    "url": "https://geometrydash.io/game/geometry-dash-lite/",
+    "category": "Platformer",
+    "mirrors": [
+      "https://www.google.com/search?q=geometry+dash+unblocked",
+      "https://scratch.mit.edu/projects/105500895/"
+    ],
+    "thumbnail": "https://images.crazygames.com/geometrydashonline/20210126175213/geometrydashonline-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer."
+  },
+  {
+    "id": "subway-surfers",
+    "name": "Subway Surfers",
+    "url": "https://kdata1.com/2020/05/subway-surfers/",
+    "category": "Action",
+    "mirrors": [
+      "https://subwaysurfers.com/",
+      "https://www.google.com/search?q=subway+surfers+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/subway-surfers/20230510101000/subway-surfers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Dash as fast as you can, dodge the oncoming trains, and help Jake escape from the grumpy Inspector."
+  },
+  {
+    "id": "moto-x3m",
+    "name": "Moto X3M",
+    "url": "https://kdata1.com/2020/05/moto-x3m/",
+    "category": "Sports",
+    "mirrors": [
+      "https://motox3m.co/",
+      "https://www.google.com/search?q=moto+x3m+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/motox3m/20210126175213/motox3m-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Perform amazing stunts and race your motorcycle through challenging obstacle courses."
+  },
+  {
+    "id": "cookie-clicker",
+    "name": "Cookie Clicker",
+    "url": "https://kdata1.com/2020/05/cookie-clicker/",
+    "category": "Casual",
+    "mirrors": [
+      "https://orteil.dashnet.org/cookieclicker/",
+      "https://www.google.com/search?q=cookie+clicker+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/cookieclicker/20210126175213/cookieclicker-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The ultimate idle game where you click a giant cookie to produce more cookies and build an empire."
+  },
+  {
+    "id": "paper-io-2",
+    "name": "Paper.io 2",
+    "url": "https://kdata1.com/2020/05/paper-io-2/",
+    "category": "IO",
+    "mirrors": [
+      "https://paper-io.com/",
+      "https://www.google.com/search?q=paper+io+2+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/paper-io-2/20210126175213/paper-io-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Capture as much territory as possible and defeat your opponents in this addictive multiplayer game."
+  },
+  {
+    "id": "2048",
+    "name": "2048",
+    "url": "https://kdata1.com/2020/05/2048/",
+    "category": "Puzzle",
+    "mirrors": [
+      "https://play2048.co/",
+      "https://www.google.com/search?q=2048+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/2048/20210126175213/2048-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Join the numbers and get to the 2048 tile in this challenging puzzle game."
+  },
+  {
+    "id": "basket-bros",
+    "name": "BasketBros",
+    "url": "https://basketbros.io/",
+    "category": "Sports",
+    "mirrors": [
+      "https://basketbros.io/game/",
+      "https://www.google.com/search?q=basketbros+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/basketbros/20210126175213/basketbros-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A fast-paced basketball game with wacky characters and high-flying dunks."
+  },
+  {
+    "id": "football-bros",
+    "name": "Football Bros",
+    "url": "https://footballbros.io/",
+    "category": "Sports",
+    "mirrors": [
+      "https://footballbros.io/game/",
+      "https://www.google.com/search?q=football+bros+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/football-bros/20231124101000/football-bros-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The gridiron version of the popular Bros series. Tackle, pass, and score!"
+  },
+  {
+    "id": "soccer-bros",
+    "name": "Soccer Bros",
+    "url": "https://soccerbros.io/",
+    "category": "Sports",
+    "mirrors": [
+      "https://soccerbros.io/game/",
+      "https://www.google.com/search?q=soccer+bros+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/soccer-bros/20240115101000/soccer-bros-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Kick off in this fast-paced soccer game. Dribble, shoot, and win the cup!"
+  },
+  {
+    "id": "temple-run-2",
+    "name": "Temple Run 2",
+    "url": "https://kdata1.com/2020/05/temple-run-2/",
+    "category": "Action",
+    "mirrors": [
+      "https://templerun2.me/",
+      "https://www.google.com/search?q=temple+run+2+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/temple-run-2/20210126175213/temple-run-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Run, jump, and slide through dangerous obstacles in this classic endless runner."
+  },
+  {
+    "id": "minecraft-classic",
+    "name": "Minecraft Classic",
+    "url": "https://classic.minecraft.net/",
+    "category": "Casual",
+    "mirrors": [
+      "https://minecraft.net/",
+      "https://www.google.com/search?q=minecraft+classic+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/minecraft-classic/20210126175213/minecraft-classic-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The original Minecraft experience, right in your browser. Build and explore!"
+  },
+  {
+    "id": "drift-hunters",
+    "name": "Drift Hunters",
+    "url": "https://kdata1.com/2020/05/drift-hunters/",
+    "category": "Driving",
+    "mirrors": [
+      "https://drifthunters.io/",
+      "https://www.google.com/search?q=drift+hunters+unblocked"
+    ],
+    "thumbnail": "https://images.crazygames.com/drifthunters/20210126175213/drifthunters-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A realistic drifting game with a wide selection of cars and tracks."
+  },
+  {
+    "id": "eggy-car",
+    "name": "Eggy Car",
+    "url": "https://eggycar.io/",
+    "category": "Driving",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/eggy-car/20210126175213/eggy-car-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Drive a car with an egg on top and try not to break it!"
+  },
+  {
+    "id": "shell-shockers",
+    "name": "Shell Shockers",
+    "url": "https://shellshock.io/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/shellshockers/20210126175213/shellshockers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The world's most advanced egg-based multiplayer shooter."
+  },
+  {
+    "id": "krunker",
+    "name": "Krunker.io",
+    "url": "https://krunker.io/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/krunker-io/20210126175213/krunker-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A fast-paced pixelated first-person shooter."
+  },
+  {
+    "id": "vex-7",
+    "name": "Vex 7",
+    "url": "https://kdata1.com/2022/10/vex-7/",
+    "category": "Platformer",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/vex-7/20221017101000/vex-7-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The latest installment in the popular Vex series. Parkour through deadly traps."
+  },
+  {
+    "id": "fireboy-watergirl-1",
+    "name": "Fireboy and Watergirl 1",
+    "url": "https://kdata1.com/2020/05/fireboy-and-watergirl-forest-temple/",
+    "category": "Puzzle",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/fireboyandwatergirltheforesttemple/20210126175213/fireboyandwatergirltheforesttemple-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Help Fireboy and Watergirl explore the Forest Temple in this cooperative puzzle game."
+  },
+  {
+    "id": "little-alchemy-2",
+    "name": "Little Alchemy 2",
+    "url": "https://littlealchemy2.com/",
+    "category": "Puzzle",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/little-alchemy-2/20210126175213/little-alchemy-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Combine elements to discover new items in this addictive crafting game."
+  },
+  {
+    "id": "smash-karts",
+    "name": "Smash Karts",
+    "url": "https://smashkarts.io/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/smash-karts/20210126175213/smash-karts-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A 3D multiplayer kart battle game. Pick up weapons and blow up your friends!"
+  },
+  {
+    "id": "crossy-road",
+    "name": "Crossy Road",
+    "url": "https://kdata1.com/2020/05/crossy-road/",
+    "category": "Casual",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/crossy-road/20210126175213/crossy-road-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper."
+  },
+  {
+    "id": "hole-io",
+    "name": "Hole.io",
+    "url": "https://hole-io.com/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/hole-io/20210126175213/hole-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Control a black hole and consume everything in your path."
+  },
+  {
+    "id": "agar-io",
+    "name": "Agar.io",
+    "url": "https://agar.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/agar-io/20210126175213/agar-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Eat smaller cells and avoid larger ones to become the biggest cell on the map."
+  },
+  {
+    "id": "slither-io",
+    "name": "Slither.io",
+    "url": "https://slither.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/slither-io/20210126175213/slither-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Grow your snake by eating glowing orbs and outsmart other players."
+  },
+  {
+    "id": "diep-io",
+    "name": "Diep.io",
+    "url": "https://diep.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/diep-io/20210126175213/diep-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Level up your tank and battle other players in this strategic shooter."
+  },
+  {
+    "id": "zombs-royale",
+    "name": "ZombsRoyale.io",
+    "url": "https://zombsroyale.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/zombsroyale-io/20210126175213/zombsroyale-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A 2D battle royale game. Loot, shoot, and survive!"
+  },
+  {
+    "id": "evoworld-io",
+    "name": "EvoWorld.io",
+    "url": "https://evoworld.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/flyordie-io/20210126175213/flyordie-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Evolve from a tiny fly to a massive predator in this multiplayer survival game."
+  },
+  {
+    "id": "skribbl-io",
+    "name": "Skribbl.io",
+    "url": "https://skribbl.io/",
+    "category": "Casual",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/skribbl-io/20210126175213/skribbl-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Draw and guess words with your friends in this fun social game."
+  },
+  {
+    "id": "chess",
+    "name": "Chess",
+    "url": "https://www.chess.com/play/online",
+    "category": "Puzzle",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/chess-online/20210126175213/chess-online-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The classic game of strategy. Play against the computer or other players."
+  },
+  {
+    "id": "tetris",
+    "name": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Puzzle",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/tetris/20210126175213/tetris-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The world-famous puzzle game. Clear lines and score points!"
+  },
+  {
+    "id": "pacman",
+    "name": "Pac-Man",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Casual",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/pacman/20210126175213/pacman-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The arcade classic. Eat pellets and avoid ghosts!"
+  },
+  {
+    "id": "fnf",
+    "name": "Friday Night Funkin'",
+    "url": "https://ninja-muffin24.itch.io/funkin",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/friday-night-funkin/20210126175213/friday-night-funkin-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A rhythm-based battle game. Hit the notes to impress your girlfriend's dad."
+  },
+  {
+    "id": "bloons-td-4",
+    "name": "Bloons TD 4",
+    "url": "https://kdata1.com/2020/05/bloons-tower-defense-4/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/bloonstowerdefense4/20210126175213/bloonstowerdefense4-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Pop bloons with monkey towers in this classic tower defense game."
+  },
+  {
+    "id": "duck-life-4",
+    "name": "Duck Life 4",
+    "url": "https://kdata1.com/2020/05/duck-life-4/",
+    "category": "Sports",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/duck-life-4/20210126175213/duck-life-4-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Train your duck to become a world-class racer."
+  },
+  {
+    "id": "world-guessr",
+    "name": "WorldGuessr",
+    "url": "https://worldguessr.com/",
+    "category": "Puzzle",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/geoguessr/20210126175213/geoguessr-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Guess where you are in the world based on street view images."
+  },
+  {
+    "id": "monkey-mart",
+    "name": "Monkey Mart",
+    "url": "https://kdata1.com/2023/02/monkey-mart/",
+    "category": "Casual",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/monkey-mart/20230220101000/monkey-mart-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Manage your own supermarket as a monkey. Harvest crops and sell products!"
+  },
+  {
+    "id": "madalin-stunt-cars-2",
+    "name": "Madalin Stunt Cars 2",
+    "url": "https://kdata1.com/2020/05/madalin-stunt-cars-2/",
+    "category": "Driving",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/madalinstuntcars2/20210126175213/madalinstuntcars2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A popular 3D car stunt game with a huge selection of supercars."
+  },
+  {
+    "id": "madalin-stunt-cars-3",
+    "name": "Madalin Stunt Cars 3",
+    "url": "https://kdata1.com/2020/05/madalin-stunt-cars-3/",
+    "category": "Driving",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/madalin-stunt-cars-3/20210126175213/madalin-stunt-cars-3-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The sequel to the hit stunt game with even more cars and tracks."
+  },
+  {
+    "id": "moto-road-rash-3d",
+    "name": "Moto Road Rash 3D",
+    "url": "https://kdata1.com/2020/05/moto-road-rash-3d/",
+    "category": "Driving",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/motoroadrash3d/20210126175213/motoroadrash3d-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Ride your motorcycle through traffic at high speeds."
+  },
+  {
+    "id": "highway-racer",
+    "name": "Highway Racer",
+    "url": "https://kdata1.com/2020/05/highway-racer/",
+    "category": "Driving",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/highwayracer/20210126175213/highwayracer-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Speed through highway traffic and avoid crashes."
+  },
+  {
+    "id": "burnout-drift",
+    "name": "Burnout Drift",
+    "url": "https://kdata1.com/2020/05/burnout-drift/",
+    "category": "Driving",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/burnoutdrift/20210126175213/burnoutdrift-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A high-octane drifting game with realistic physics."
+  },
+  {
+    "id": "happy-wheels",
+    "name": "Happy Wheels",
+    "url": "https://totaljerkface.com/happy_wheels.tjf",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/happy-wheels/20210126175213/happy-wheels-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A physics-based obstacle course game with dark humor."
+  },
+  {
+    "id": "super-mario-64",
+    "name": "Super Mario 64",
+    "url": "https://sm64.z64.me/",
+    "category": "Platformer",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/super-mario-64/20210126175213/super-mario-64-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "The legendary 3D platformer, now playable in your browser."
+  },
+  {
+    "id": "among-us",
+    "name": "Among Us (Clone)",
+    "url": "https://kdata1.com/2020/11/among-us/",
+    "category": "Casual",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/among-us/20210126175213/among-us-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Find the imposter in this fan-made browser version of the hit game."
+  },
+  {
+    "id": "fnaf-1",
+    "name": "FNaF 1",
+    "url": "https://kdata1.com/2020/05/five-nights-at-freddys/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/fnaf-1/20210126175213/fnaf-1-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Survive the night shift at Freddy Fazbear's Pizza."
+  },
+  {
+    "id": "baldis-basics",
+    "name": "Baldi's Basics",
+    "url": "https://kdata1.com/2020/05/baldis-basics/",
+    "category": "Puzzle",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/baldis-basics/20210126175213/baldis-basics-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A surreal horror-educational game. Collect all 7 notebooks!"
+  },
+  {
+    "id": "stickman-hook",
+    "name": "Stickman Hook",
+    "url": "https://kdata1.com/2020/05/stickman-hook/",
+    "category": "Platformer",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/stickman-hook/20210126175213/stickman-hook-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Swing like a spider through challenging levels."
+  },
+  {
+    "id": "ovo",
+    "name": "OvO",
+    "url": "https://kdata1.com/2020/05/ovo/",
+    "category": "Platformer",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/ovo/20210126175213/ovo-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A fast-paced platformer where you use parkour moves to reach the flag."
+  },
+  {
+    "id": "run-3",
+    "name": "Run 3",
+    "url": "https://kdata1.com/2020/05/run-3/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/run-3/20210126175213/run-3-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Run through space tunnels and avoid falling into the void."
+  },
+  {
+    "id": "g-switch-3",
+    "name": "G-Switch 3",
+    "url": "https://kdata1.com/2020/05/g-switch-3/",
+    "category": "Action",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/g-switch-3/20210126175213/g-switch-3-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Defy gravity in this high-speed running game."
+  },
+  {
+    "id": "snowball-io",
+    "name": "Snowball.io",
+    "url": "https://snowball.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/snowball-io/20210126175213/snowball-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Roll a snowball and knock other players off the platform."
+  },
+  {
+    "id": "aquapark-io",
+    "name": "Aquapark.io",
+    "url": "https://aquapark.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/aquapark-io/20210126175213/aquapark-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Race down a massive water slide and be the first to reach the pool."
+  },
+  {
+    "id": "powerline-io",
+    "name": "Powerline.io",
+    "url": "https://powerline.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/powerline-io/20210126175213/powerline-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "A modern take on Snake. Get close to other lines to boost your speed."
+  },
+  {
+    "id": "wings-io",
+    "name": "Wings.io",
+    "url": "https://wings.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/wings-io/20210126175213/wings-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Fly a plane and shoot down other players in this aerial battle game."
+  },
+  {
+    "id": "mope-io",
+    "name": "Mope.io",
+    "url": "https://mope.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/mope-io/20210126175213/mope-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Eat and evolve in this massive animal-themed survival game."
+  },
+  {
+    "id": "splix-io",
+    "name": "Splix.io",
+    "url": "https://splix.io/",
+    "category": "IO",
+    "mirrors": [],
+    "thumbnail": "https://images.crazygames.com/splix-io/20210126175213/splix-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "description": "Capture territory by drawing lines and returning to your base."
+  }
+]
